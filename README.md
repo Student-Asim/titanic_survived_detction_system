@@ -1,1 +1,1 @@
-# titanic_survived_detction_system
+# titanic_survived_detection_system
